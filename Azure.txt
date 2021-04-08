@@ -1,0 +1,22 @@
+GIT : nravitej-Git
+Chief@1403
+navuluriraviteja@gmail.com
+
+
+4 yaml
+2 CICD
+
+INLCUDE MASTER
+PATH- 
+
+2 GATED
+INCLUDED *
+PATH - NAMES ISTHAV
+
+Azure_Servciceprincipal:
+value:
+34n7Q_4_eJdsj3v4y.-fpKm4YHTY_Ja~XX
+
+ID:
+45d47981-e8b3-490a-9f1f-11217339bbdd
+
