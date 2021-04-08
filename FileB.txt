@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This is File B-Version1-Github" 
+=======
+"This is File B-Version1 - Github" 
+>>>>>>> f5408a7d064b4a97ed283ed25084753dcba5ee97
